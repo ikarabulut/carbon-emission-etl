@@ -32,3 +32,9 @@ sheets:
   - "Waste"
 
 use_preset_ef: False
+
+default_taxonomies:
+  Glass Sourcing: "level 3"
+  Ingredient Sourcing: "level 3"
+  Transport: "level 3"
+  Use And End Of Life: "level 3"
