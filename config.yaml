@@ -31,7 +31,7 @@ sheets:
   - "Transportation"
   - "Waste"
 
-use_preset_ef: False
+use_preset_ef: True
 
 default_taxonomies:
   Glass Sourcing: "level 3"
