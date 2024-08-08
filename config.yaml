@@ -18,14 +18,12 @@ schema:
 
   custom_fields:
     Label Mandatory: string
+    Label Forbidden: string
     Very Custom: string
     GBU: string
     SAP ID: int
     Data Source: string
     Supplier Name: string
-
-  forbidden_fields:
-    - "Label Forbidden"
 
 sheets:
   - "Materials"
