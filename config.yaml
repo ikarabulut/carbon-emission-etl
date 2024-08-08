@@ -22,6 +22,7 @@ schema:
     GBU: string
     SAP ID: int
     Data Source: string
+    Supplier Name: string
 
   forbidden_fields:
     - "Label Forbidden"
